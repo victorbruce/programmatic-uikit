@@ -12,9 +12,13 @@ Composing reusable UIKit code 👨🏽‍💻 programmatically one at a time wit
 
 - **TabBarControllers**: contains code snippets on how to set a **Tab Bar Controller** as the main navigation to present multiple screens programmatically without the use of a storyboard.
 
+- **TabBarAndNavigationController**: contains code snippets on how to handle both **Tab Bar** and **Navigation Controllers** within an application programmatically without the use of a storyboard.
+
+- **TableView**: contains code snippets of how to display a table view component with a list of table view cells programmatically without the use of a storyboard.
+
 
 **✍️ Todo**
-- an example of how to combine both NavigationController and TabBarController together.
+- an example of how to combine both NavigationController and TabBarController together. ✅
 - an example of using table views. ✅
 - an example of using table view(header + footer + custom cell)
 - an example of using collection views.
