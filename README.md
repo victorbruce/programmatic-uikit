@@ -10,11 +10,19 @@ Composing reusable UIKit code 👨🏽‍💻 programmatically one at a time wit
 
 - **NavigationControllers**: contains code snippets on how to set a **Navigation Controller** as the main navigation to present multiple screens programmatically without the use of a storyboard.
 
+![Tab bar and navigation controller example](./screenshots/NavigationController.gif)
+
 - **TabBarControllers**: contains code snippets on how to set a **Tab Bar Controller** as the main navigation to present multiple screens programmatically without the use of a storyboard.
+
+![Tab bar and navigation controller example](./screenshots/TabBarController.gif)
 
 - **TabBarAndNavigationController**: contains code snippets on how to handle both **Tab Bar** and **Navigation Controllers** within an application programmatically without the use of a storyboard.
 
+![Tab bar and navigation controller example](./screenshots/TabBarAndNavigationControllers.gif)
+
 - **TableView**: contains code snippets of how to display a table view component with a list of table view cells programmatically without the use of a storyboard.
+
+![TableView example](./screenshots/TableView.png)
 
 
 **✍️ Todo**
