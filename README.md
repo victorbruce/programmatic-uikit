@@ -24,11 +24,14 @@ Composing reusable UIKit code 👨🏽‍💻 programmatically one at a time wit
 
 ![TableView example](./screenshots/TableView.png)
 
+- **TableViewWithCustomCell**: code snippets for creating a table view with a custom cell programmatically.
+
+![TableView example](./screenshots/TableViewWithCustomCell.png)
 
 **✍️ Todo**
 - an example of how to combine both NavigationController and TabBarController together. ✅
 - an example of using table views. ✅
-- an example of using table view(header + footer + custom cell)
+- an example of using table view(custom cell) ✅
 - an example of using collection views.
 - an example of using auto layouts.
 - an example of using MVVMC architecture.
