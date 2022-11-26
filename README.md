@@ -28,6 +28,10 @@ Composing reusable UIKit code 👨🏽‍💻 programmatically one at a time wit
 
 ![TableView example](./screenshots/TableViewWithCustomCell.png)
 
+- **CustomNavigationBar**: code snippets for creating a custom navigation bar in UIKit using code only. This code snippet takes care of issues such as changing the status bar text color, navigation background and foreground color.
+
+![TableView example](./screenshots/CustomNavigationBar.png)
+
 **✍️ Todo**
 - an example of how to combine both NavigationController and TabBarController together. ✅
 - an example of using table views. ✅
