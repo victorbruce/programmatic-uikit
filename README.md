@@ -32,10 +32,12 @@ Composing reusable UIKit code 👨🏽‍💻 programmatically one at a time wit
 
 ![TableView example](./screenshots/CustomNavigationBar.png)
 
+- **MVVMCPattern**: a widely use folder structure pattern for most iOS projects.
+
 **✍️ Todo**
 - an example of how to combine both NavigationController and TabBarController together. ✅
 - an example of using table views. ✅
 - an example of using table view(custom cell) ✅
 - an example of using collection views.
 - an example of using auto layouts.
-- an example of using MVVMC architecture.
+- an example of using MVVMC architecture. ✅
