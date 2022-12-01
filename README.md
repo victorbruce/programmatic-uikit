@@ -34,6 +34,10 @@ Composing reusable UIKit code 👨🏽‍💻 programmatically one at a time wit
 
 - **MVVMCPattern**: a widely use folder structure pattern for most iOS projects.
 
+- **SwipeActionsOnTableRow**: code snippet on how to add a group of buttons on a table row when swiped
+
+![Swipe Actions example](./screenshots/SwipeActions.gif)
+
 **✍️ Todo**
 - an example of how to combine both NavigationController and TabBarController together. ✅
 - an example of using table views. ✅
